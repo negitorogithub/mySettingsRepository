@@ -1,0 +1,27 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent">
+        <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+        <property name="last_opened_file_path" value="C:/Program Files/node-v8.9.4-win-x64/node.exe" />
+        <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
