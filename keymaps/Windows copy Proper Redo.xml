@@ -58,10 +58,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt p" />
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
-  <action id="IntroduceVariable">
-    <keyboard-shortcut first-keystroke="ctrl alt v" />
-    <keyboard-shortcut first-keystroke="shift ctrl v" />
-  </action>
   <action id="KotlinShellExecute" />
   <action id="Macro.saveAndReformat">
     <keyboard-shortcut first-keystroke="ctrl s" />
