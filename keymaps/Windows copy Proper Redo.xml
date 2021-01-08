@@ -27,8 +27,6 @@
   <action id="Dart.Restart.Analysis.Server">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
-  <action id="Diff.NextChange" />
-  <action id="Diff.PrevChange" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditSource">
@@ -36,14 +34,6 @@
     <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="EditorDeleteLine" />
-  <action id="EditorLineEnd">
-    <keyboard-shortcut first-keystroke="end" />
-    <keyboard-shortcut first-keystroke="alt right" />
-  </action>
-  <action id="EditorLineStart">
-    <keyboard-shortcut first-keystroke="home" />
-    <keyboard-shortcut first-keystroke="alt left" />
-  </action>
   <action id="EditorSplitLine" />
   <action id="ExpressionTypeInfo" />
   <action id="ExtractMethod">
@@ -68,23 +58,24 @@
     <keyboard-shortcut first-keystroke="ctrl alt p" />
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
   <action id="KotlinShellExecute" />
   <action id="Macro.saveAndReformat">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
-  <action id="NextTab" />
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift ctrl insert" />
   </action>
-  <action id="PreviousTab" />
   <action id="RecentFiles" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <mouse-shortcut keystroke="shift button4" />
-    <mouse-shortcut keystroke="shift button1" />
-    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="Replace" />
+  <action id="ReplaceInPath" />
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>
