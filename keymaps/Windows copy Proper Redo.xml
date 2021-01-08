@@ -75,7 +75,6 @@
     <mouse-shortcut keystroke="shift button4" />
   </action>
   <action id="Replace" />
-  <action id="ReplaceInPath" />
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>
