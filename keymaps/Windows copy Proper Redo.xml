@@ -20,6 +20,7 @@
   <action id="CIDR.Debugger.ShowInMemoryView" />
   <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
   <action id="Console.Execute.Multiline" />
+  <action id="ContextHelp" />
   <action id="CopyPaths" />
   <action id="Dart.NewDartFile">
     <mouse-shortcut keystroke="control button4" />
