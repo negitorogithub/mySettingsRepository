@@ -30,10 +30,6 @@
   </action>
   <action id="Diff.ShowSettingsPopup" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
-  <action id="EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-    <mouse-shortcut keystroke="control button1" />
-  </action>
   <action id="EditorDeleteLine" />
   <action id="EditorSplitLine" />
   <action id="ExpressionTypeInfo" />
@@ -47,6 +43,7 @@
   </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="GotoFile" />
   <action id="GotoLine" />
@@ -66,6 +63,9 @@
   <action id="KotlinShellExecute" />
   <action id="Macro.saveAndReformat">
     <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="NavBar-navigate">
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift ctrl insert" />
