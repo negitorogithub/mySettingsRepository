@@ -5,8 +5,13 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="GotoNextError" />
   <action id="Macro.saveAndReformat">
     <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="SaveAll" />
 </keymap>
