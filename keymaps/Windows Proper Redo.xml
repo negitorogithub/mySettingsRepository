@@ -5,6 +5,14 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="GotoNextError" />
   <action id="IntroduceConstant">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
@@ -13,6 +21,8 @@
   <action id="Macro.saveAndReformat">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="NextTab" />
+  <action id="PreviousTab" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
