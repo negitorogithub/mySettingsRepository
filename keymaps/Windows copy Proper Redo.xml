@@ -24,23 +24,39 @@
   <action id="CopyPaths" />
   <action id="Dart.NewDartFile">
     <mouse-shortcut keystroke="control button4" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="Dart.Restart.Analysis.Server">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorDeleteLine" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="ExpressionTypeInfo" />
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="Flutter.Toolbar.RestartAction">
     <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
@@ -68,9 +84,11 @@
   <action id="NavBar-navigate">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="NextTab" />
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift ctrl insert" />
   </action>
+  <action id="PreviousTab" />
   <action id="RecentFiles" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
