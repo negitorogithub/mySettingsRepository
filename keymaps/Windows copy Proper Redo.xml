@@ -47,6 +47,7 @@
   </action>
   <action id="GotoFile" />
   <action id="GotoLine" />
+  <action id="GotoNextError" />
   <action id="Groovy.Shell.Execute" />
   <action id="IntroduceConstant">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
