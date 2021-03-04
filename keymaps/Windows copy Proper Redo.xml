@@ -33,6 +33,7 @@
   <action id="Diff.PrevChange" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditSource" />
   <action id="EditorDeleteLine" />
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
@@ -63,7 +64,9 @@
   </action>
   <action id="GotoFile" />
   <action id="GotoLine" />
-  <action id="GotoNextError" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="Groovy.Shell.Execute" />
   <action id="IntroduceConstant">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
@@ -81,10 +84,9 @@
   <action id="Macro.saveAndReformat">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
-  <action id="NavBar-navigate">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="NavBar-navigate" />
   <action id="NextTab" />
+  <action id="OpenModuleSettings" />
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift ctrl insert" />
   </action>
@@ -116,11 +118,13 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UpdateRunningApplication" />
+  <action id="Vcs.EditSource" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
+  <action id="XDebugger.JumpToSource" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
