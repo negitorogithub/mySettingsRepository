@@ -20,35 +20,53 @@
   <action id="CIDR.Debugger.ShowInMemoryView" />
   <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
   <action id="Console.Execute.Multiline" />
+  <action id="ContextHelp" />
   <action id="CopyPaths" />
   <action id="Dart.NewDartFile">
     <mouse-shortcut keystroke="control button4" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="Dart.Restart.Analysis.Server">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
-  <action id="EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-    <mouse-shortcut keystroke="control button1" />
-  </action>
+  <action id="EditSource" />
   <action id="EditorDeleteLine" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="ExpressionTypeInfo" />
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="Flutter.Toolbar.RestartAction">
     <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="GotoFile" />
   <action id="GotoLine" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="Groovy.Shell.Execute" />
   <action id="IntroduceConstant">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
@@ -66,16 +84,25 @@
   <action id="Macro.saveAndReformat">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="NavBar-navigate" />
+  <action id="NextTab" />
+  <action id="OpenModuleSettings" />
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift ctrl insert" />
   </action>
+  <action id="PreviousTab" />
   <action id="RecentFiles" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <mouse-shortcut keystroke="shift button4" />
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
-  <action id="Replace" />
-  <action id="ReplaceInPath" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>
@@ -93,11 +120,13 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UpdateRunningApplication" />
+  <action id="Vcs.EditSource" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
+  <action id="XDebugger.JumpToSource" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
