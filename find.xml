@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'appront_media_app'" />
-    <option name="defaultScopeName" value="Project 'appront_media_app'" />
-    <option name="SEARCH_SCOPE" value="Project 'appront_media_app'" />
+    <option name="customScope" value="except freezed" />
+    <option name="defaultScopeName" value="except freezed" />
+    <option name="SEARCH_SCOPE" value="except freezed" />
   </component>
 </application>
