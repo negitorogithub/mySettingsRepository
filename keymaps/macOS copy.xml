@@ -139,10 +139,6 @@
   <action id="ProjectViewEditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
-  <action id="QuickActionPopup">
-    <keyboard-shortcut first-keystroke="meta alt enter" />
-    <keyboard-shortcut first-keystroke="shift meta a" />
-  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
@@ -172,6 +168,9 @@
   <action id="Stop">
     <keyboard-shortcut first-keystroke="meta f2" />
     <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="Tool_External Tools_addPartOf">
+    <keyboard-shortcut first-keystroke="shift meta a" />
   </action>
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
