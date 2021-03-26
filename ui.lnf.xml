@@ -1,9 +1,4 @@
 <application>
-  <component name="DependencyUISettings">
-    <option name="SCOPE_TYPE" value="file" />
-  </component>
-</application>
-<application>
   <component name="UISettings">
     <option name="IDE_AA_TYPE" value="Greyscale" />
   </component>
