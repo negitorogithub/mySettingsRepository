@@ -63,4 +63,11 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="jsonkey" value="@JsonKey(name: '$snake$') final $END$ $camel$,&#10;" toReformat="false" toShortenFQNames="true">
+    <variable name="snake" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="camel" expression="camelCase(snake)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
