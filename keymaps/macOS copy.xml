@@ -121,7 +121,7 @@
     <keyboard-shortcut first-keystroke="meta alt c" />
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
-  <action id="Macro.saveAndReformat">
+  <action id="Macro.saveAnddartfmt">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="MethodHierarchy" />
