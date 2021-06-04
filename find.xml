@@ -12,5 +12,6 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.dart</mask>
+    <mask>*.freezed.dart</mask>
   </component>
 </application>
