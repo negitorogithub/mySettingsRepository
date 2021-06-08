@@ -46,9 +46,6 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="GotoNextError" />
-  <action id="Macro.saveAndReformat">
-    <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
   <action id="NextTab" />
   <action id="PreviousTab" />
   <action id="RenameElement">
