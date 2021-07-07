@@ -62,7 +62,7 @@
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
   <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="meta d" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="EditorDeleteToWordEnd">
     <keyboard-shortcut first-keystroke="alt delete" />
@@ -71,9 +71,6 @@
   <action id="EditorDeleteToWordStart">
     <keyboard-shortcut first-keystroke="alt back_space" />
     <keyboard-shortcut first-keystroke="meta back_space" />
-  </action>
-  <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
@@ -121,7 +118,7 @@
     <keyboard-shortcut first-keystroke="meta alt c" />
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
-  <action id="Macro.saveAndReformat">
+  <action id="Macro.saveAnddartfmt">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="MethodHierarchy" />
@@ -139,10 +136,6 @@
   <action id="ProjectViewEditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
-  <action id="QuickActionPopup">
-    <keyboard-shortcut first-keystroke="meta alt enter" />
-    <keyboard-shortcut first-keystroke="shift meta a" />
-  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
@@ -152,7 +145,12 @@
     <mouse-shortcut keystroke="shift button1" />
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
-  <action id="Replace" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="meta r" />
@@ -172,6 +170,9 @@
   <action id="Stop">
     <keyboard-shortcut first-keystroke="meta f2" />
     <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="Tool_External Tools_addPartOf">
+    <keyboard-shortcut first-keystroke="shift meta a" />
   </action>
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />

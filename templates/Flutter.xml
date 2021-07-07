@@ -56,4 +56,18 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="sarg" value="/// $END$&#10;class $SCREEN_NAME$ScreenArguments with _NoParamsMixin implements IScreenArguments {&#10;  const $SCREEN_NAME$ScreenArguments();&#10;&#10;  @override&#10;  Route generateRoute() =&gt; MaterialPageRoute(&#10;        builder: (_) =&gt; $SCREEN_NAME$Screen(this),&#10;        settings: settings,&#10;      );&#10;&#10;  @override&#10;  bool get isSingleTask =&gt; false;&#10;&#10;  @override&#10;  bool get isSingleTop =&gt; false;&#10;&#10;  @override&#10;  String get screenNameFormat =&gt; '/$SCREEN_NAME_CAMEL$';&#10;}&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="SCREEN_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SCREEN_NAME_CAMEL" expression="snakeCase(SCREEN_NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="jsonkey" value="@JsonKey(name: '$snake$') final $END$ $camel$," description="" toReformat="false" toShortenFQNames="true">
+    <variable name="snake" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="camel" expression="camelCase(snake)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>

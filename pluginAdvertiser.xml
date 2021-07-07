@@ -47,6 +47,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.androidproj">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ane">
           <value>
             <plugin>
@@ -66,6 +75,105 @@
           </value>
         </entry>
         <entry key="*.apk">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.android" />
+              <option name="myPluginName" value="Android" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.appxmanifest">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.asax">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.razor" />
+              <option name="myPluginName" value="Support for ASP.NET and Razor" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ascx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.razor" />
+              <option name="myPluginName" value="Support for ASP.NET and Razor" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ashx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.razor" />
+              <option name="myPluginName" value="Support for ASP.NET and Razor" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.asmdef">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.resharper.unity" />
+              <option name="myPluginName" value="Unity Support" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.asmx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.razor" />
+              <option name="myPluginName" value="Support for ASP.NET and Razor" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.aspx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.razor" />
+              <option name="myPluginName" value="Support for ASP.NET and Razor" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.asset">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.resharper.unity" />
+              <option name="myPluginName" value="Unity Support" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.axaml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.axml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.baml">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
@@ -101,6 +209,42 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.cache">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ccproj">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cginc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.chm">
           <value>
             <plugin>
@@ -119,11 +263,65 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.compute">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.config">
           <value>
             <plugin>
               <option name="myPluginId" value="Lombook Plugin" />
               <option name="myPluginName" value="Lombok" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cscfg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.csdef">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cshtml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.razor" />
+              <option name="myPluginName" value="Support for ASP.NET and Razor" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.csproj">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -181,11 +379,38 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.disco">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.dll">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.doc">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.dockerfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Docker" />
+              <option name="myPluginName" value="Docker" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -244,6 +469,42 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.entitlements">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.exe">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.feature">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="gherkin" />
+              <option name="myPluginName" value="Gherkin" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.filelayout">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.form">
           <value>
             <plugin>
@@ -258,6 +519,15 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.android" />
               <option name="myPluginName" value="Android" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.fsproj">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -307,6 +577,33 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.glsl">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.resharper.unity" />
+              <option name="myPluginName" value="Unity Support" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.glslinc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.resharper.unity" />
+              <option name="myPluginName" value="Unity Support" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.gold">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.gradle">
           <value>
             <plugin>
@@ -334,11 +631,29 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.handlebars">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.dmarcotte.handlebars" />
+              <option name="myPluginName" value="Handlebars/Mustache" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.har">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.hbs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.dmarcotte.handlebars" />
+              <option name="myPluginName" value="Handlebars/Mustache" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -353,6 +668,42 @@
           </value>
         </entry>
         <entry key="*.hlp">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.hlsl">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.hlsli">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.hlslinc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.hphp">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
@@ -406,6 +757,24 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ijperf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.performancePlugin" />
+              <option name="myPluginName" value="Performance Testing" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.il">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.iml">
           <value>
             <plugin>
@@ -415,7 +784,25 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.inputactions">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ipr">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.isproj">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
@@ -606,11 +993,38 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.localizationmanager">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.manifest">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.markdown">
           <value>
             <plugin>
               <option name="myPluginId" value="org.intellij.plugins.markdown" />
               <option name="myPluginName" value="Markdown" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.master">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.razor" />
+              <option name="myPluginName" value="Support for ASP.NET and Razor" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -633,6 +1047,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.meta">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.resharper.unity" />
+              <option name="myPluginName" value="Unity Support" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.mf">
           <value>
             <plugin>
@@ -643,6 +1066,60 @@
           </value>
         </entry>
         <entry key="*.mod">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.module">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.msbuildproj">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mustache">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.dmarcotte.handlebars" />
+              <option name="myPluginName" value="Handlebars/Mustache" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.myapp">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.njsproj">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.nuspec">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
@@ -669,11 +1146,29 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.overridetasks">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.pam">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.paml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -705,7 +1200,25 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.pdb">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.pdf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pfx">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
@@ -719,6 +1232,51 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.php">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.php4">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.php5">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.phtml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.plist">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -777,11 +1335,29 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.prefab">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.resharper.unity" />
+              <option name="myPluginName" value="Unity Support" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.pro">
           <value>
             <plugin>
               <option name="myPluginId" value="org.jetbrains.android" />
               <option name="myPluginName" value="Android" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.proj">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -795,43 +1371,7 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.psd">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="com.intellij.platform.images" />
-              <option name="myPluginName" value="com.intellij.platform.images" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.py">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="PythonCore" />
-              <option name="myPluginName" value="Python Community Edition" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.pyi">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="PythonCore" />
-              <option name="myPluginName" value="Python Community Edition" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.pyw">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="PythonCore" />
-              <option name="myPluginName" value="Python Community Edition" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.qrc">
+        <entry key="*.props">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
@@ -840,7 +1380,43 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.psd">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.android" />
+              <option name="myPluginName" value="Android" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pubxml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.razor">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.razor" />
+              <option name="myPluginName" value="Support for ASP.NET and Razor" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.regexp">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.resx">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
@@ -894,11 +1470,20 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.rst">
+        <entry key="*.ruleset">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.jetbrains.plugins.rest" />
-              <option name="myPluginName" value="ReStructuredText" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.settings">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -908,6 +1493,24 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.sh" />
               <option name="myPluginName" value="Shell Script" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.shader">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.resharper.unity" />
+              <option name="myPluginName" value="Unity Support" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.shproj">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -939,6 +1542,33 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.skin">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.razor" />
+              <option name="myPluginName" value="Support for ASP.NET and Razor" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.sln">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.slnf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.smali">
           <value>
             <plugin>
@@ -957,6 +1587,51 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.snk">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.storyboard">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.stylecop">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.svc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.rider.razor" />
+              <option name="myPluginName" value="Support for ASP.NET and Razor" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.svcmap">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.svg">
           <value>
             <plugin>
@@ -967,6 +1642,69 @@
           </value>
         </entry>
         <entry key="*.swc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.swift">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.swiftmodule">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.t4">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.fortea" />
+              <option name="myPluginName" value="ForTea" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.targets">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tasks">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.template">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.test">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
@@ -1011,11 +1749,29 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.tps">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.trace">
           <value>
             <plugin>
               <option name="myPluginId" value="org.jetbrains.android" />
               <option name="myPluginName" value="Android" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.fortea" />
+              <option name="myPluginName" value="ForTea" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1029,6 +1785,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ttinclude">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.fortea" />
+              <option name="myPluginName" value="ForTea" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.txt">
           <value>
             <plugin>
@@ -1038,16 +1803,79 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.ui">
+        <entry key="*.uml">
           <value>
             <plugin>
-              <option name="myPluginId" value="PythonCore" />
-              <option name="myPluginName" value="Python Community Edition" />
+              <option name="myPluginId" value="com.intellij.diagram" />
+              <option name="myPluginName" value="UML" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.unity">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.resharper.unity" />
+              <option name="myPluginName" value="Unity Support" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.uxml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.resharper.unity" />
+              <option name="myPluginName" value="Unity Support" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.vb">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.vbproj">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.vcxitems">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.vcxproj">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
         <entry key="*.vsd">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.wadcfgx">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
@@ -1083,7 +1911,115 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.webref">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.wixlib">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.wixmsp">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.wixmst">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.wixobj">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.wixout">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.wixpdb">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.wixproj">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.wsdl">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.wxi">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.wxl">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.wxs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.xaml">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
@@ -1102,6 +2038,15 @@
           </value>
         </entry>
         <entry key="*.xhtml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.xib">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
@@ -1254,11 +2199,74 @@
             </plugin>
           </value>
         </entry>
-        <entry key="buildout.cfg">
+        <entry key="Dockerfile">
           <value>
             <plugin>
-              <option name="myPluginId" value="PythonCore" />
-              <option name="myPluginName" value="Python Community Edition" />
+              <option name="myPluginId" value="Docker" />
+              <option name="myPluginName" value="Docker" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Dockerfile.fast-jar">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Docker" />
+              <option name="myPluginName" value="Docker" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Dockerfile.jlink">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Docker" />
+              <option name="myPluginName" value="Docker" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Dockerfile.jvm">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Docker" />
+              <option name="myPluginName" value="Docker" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Dockerfile.native">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Docker" />
+              <option name="myPluginName" value="Docker" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Entitlements.plist">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="StyleCop.Cache">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="entitlements.plist">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1381,6 +2389,36 @@
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
+                  <entry key="ConnectRemote">
+                    <value>
+                      <FeaturePluginData displayName="Mono Remote" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="DotNetFolderPublish">
+                    <value>
+                      <FeaturePluginData displayName="Publish to folder" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="DotNetMsBuildPublish">
+                    <value>
+                      <FeaturePluginData displayName="Publish to IIS" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="DotNetProject">
+                    <value>
+                      <FeaturePluginData displayName=".NET Project" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="DotNetPublishAndUpload">
+                    <value>
+                      <FeaturePluginData displayName="Publish to custom server" pluginName="Support for publishing to custom servers" pluginId="com.jetbrains.rider.publish.webDeploy" />
+                    </value>
+                  </entry>
+                  <entry key="DotNetStaticMethod">
+                    <value>
+                      <FeaturePluginData displayName=".NET Static Method" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
                   <entry key="GradleRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Gradle" pluginName="Gradle" pluginId="com.intellij.gradle" />
@@ -1416,19 +2454,39 @@
                       <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
                     </value>
                   </entry>
+                  <entry key="LaunchSettings">
+                    <value>
+                      <FeaturePluginData displayName=".NET Launch Settings Profile" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
                   <entry key="MavenRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Maven" pluginName="Maven" pluginId="org.jetbrains.idea.maven" />
                     </value>
                   </entry>
-                  <entry key="PythonConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Python" pluginName="Python Community Edition" pluginId="PythonCore" />
-                    </value>
-                  </entry>
                   <entry key="Remote">
                     <value>
                       <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" />
+                    </value>
+                  </entry>
+                  <entry key="RiderUnitTests">
+                    <value>
+                      <FeaturePluginData displayName="Unit Tests" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="RunExe">
+                    <value>
+                      <FeaturePluginData displayName=".NET Executable" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="RunNativeExe">
+                    <value>
+                      <FeaturePluginData displayName="Native Executable" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="RunUnityExe">
+                    <value>
+                      <FeaturePluginData displayName="Standalone Player" pluginName="Unity Support" pluginId="com.intellij.resharper.unity" />
                     </value>
                   </entry>
                   <entry key="ShConfigurationType">
@@ -1441,9 +2499,14 @@
                       <FeaturePluginData displayName="TestNG" pluginName="TestNG" pluginId="TestNG-J" />
                     </value>
                   </entry>
-                  <entry key="Tox">
+                  <entry key="UNITY_DEBUG_RUN_CONFIGURATION">
                     <value>
-                      <FeaturePluginData displayName="tox" pluginName="Python Community Edition" pluginId="PythonCore" />
+                      <FeaturePluginData displayName="Attach to Unity Editor" pluginName="Unity Support" pluginId="com.intellij.resharper.unity" />
+                    </value>
+                  </entry>
+                  <entry key="UwpProject">
+                    <value>
+                      <FeaturePluginData displayName="UWP" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
                   <entry key="XSLT">
@@ -1451,14 +2514,19 @@
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
                     </value>
                   </entry>
-                  <entry key="docs">
+                  <entry key="XamarinIOSProject">
                     <value>
-                      <FeaturePluginData displayName="Python docs" pluginName="PythonCore" pluginId="PythonCore" />
+                      <FeaturePluginData displayName="Xamarin.iOS" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
-                  <entry key="tests">
+                  <entry key="XamarinMacProject">
                     <value>
-                      <FeaturePluginData displayName="Python tests" pluginName="Python Community Edition" pluginId="PythonCore" />
+                      <FeaturePluginData displayName="Xamarin.Mac" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="docker-deploy">
+                    <value>
+                      <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
                 </map>
@@ -1484,11 +2552,6 @@
                   <entry key="apk">
                     <value>
                       <FeaturePluginData displayName="APK" pluginName="Android" pluginId="org.jetbrains.android" />
-                    </value>
-                  </entry>
-                  <entry key="buildout-python">
-                    <value>
-                      <FeaturePluginData displayName="Buildout Support" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
                   <entry key="java-gradle">
