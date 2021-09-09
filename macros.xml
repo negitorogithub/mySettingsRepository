@@ -1,8 +1,8 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="saveAndReformat">
+    <macro name="saveAnddartfmt">
+      <action id="Dart.DartStyle" />
       <action id="SaveAll" />
-      <action id="ReformatCode" />
     </macro>
   </component>
 </application>
